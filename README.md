@@ -6,4 +6,4 @@ In this course, we will introduce a number of financial analytic techniques. We 
 This website below is very useful!
 https://otexts.com/fpp2/
 
-**main programming language: R**
+**Main programming language: R**
